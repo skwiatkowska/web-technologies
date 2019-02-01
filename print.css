@@ -1,0 +1,29 @@
+.all {
+    width: 100%;
+    margin: auto;
+}
+
+
+.linki {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    color: black;
+    font-family: 'Times New Roman', serif;
+}
+
+
+.tresc p {
+    font-family: 'Times New Roman', serif;
+    text-indent: 20px;
+}
+
+.tresc p::first-letter {
+    font-weight: initial;
+}
+
+table td {
+    background-color: white;
+    border-color: black;
+}
